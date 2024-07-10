@@ -10,3 +10,4 @@ const array = [
 ];
 // result: ["apple London", "banana Bangkok", "watermelon Singapore"]
 ```
+-ปฏิพงษศกร บุญมา(เจมส์)
